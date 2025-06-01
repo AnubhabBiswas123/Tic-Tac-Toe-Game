@@ -4,7 +4,7 @@ A clean, interactive, and fully responsive **Tic Tac Toe** game built using **HT
 
 ## 🔗 Live Demo
 
-👉 [Click here to play the game](https://your-live-demo-link.com)
+👉 [Click here to play the game](https://anubhabbiswas123.github.io/Tic-Tac-Toe-Game/)
 
 ---
 
